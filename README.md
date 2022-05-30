@@ -10,3 +10,12 @@ short roadmap
 - only create telegram group when you get close to release a stable ISO
 - because Arch is bleeding edge you don't need to build too much ISO but ship them like every 3 months or so
 - better use release date in the naming plus a word if you want or you just keep it release date (i.e 2022.0520)
+
+# How to connect and chat?
+Moehrlux is using Guilded which is a fancy chat platform to keep you informed and get in touch with other users
+
+https://www.guilded.gg/i/2MJNLOjk
+
+# How to help Moehrlux? 
+
+Become a beta tester for the isos and give us feedback! Announcment of releases of isos will be published on Moehrlux-Server in Guilded! 
