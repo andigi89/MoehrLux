@@ -19,3 +19,7 @@ https://www.guilded.gg/i/2MJNLOjk
 # How to help Moehrlux? 
 
 Become a beta tester for the isos and give us feedback! Announcment of releases of isos will be published on Moehrlux-Server in Guilded! 
+
+# Where can I download the beta isos?
+
+I am going to provide a link for the beta isos on Google Drive until I've found a proper solution for it! :) 
