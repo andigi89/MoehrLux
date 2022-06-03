@@ -1,4 +1,4 @@
-# Moehrlux
+# MoehrLux
 
 Arch based distro with Calamares installer KDE Plasma as default desktop
 
@@ -18,13 +18,13 @@ I am going to provide a link for the beta isos on Google Drive until I've found 
 
 # FAQ
 
-1. What's the goal of Moehrlux?
+1. What's the goal of MoehrLux?
 
-The goal of Moehrlux is provide a stable experience based on the repos of Arch and ArcoLinux. Besides I am going to focus to provide Linux-Zen-Kernel and Btrfs as a rock-solid solution.
+The goal of MoehrLux is provide a stable experience based on the repos of Arch and ArcoLinux. Besides I am going to focus to provide Linux-Zen-Kernel and (Btrfs) as a rock-solid solution.
 
-The most important aspect starting Moehrlux was that good friends of mine complained that Arch itself doesn't provide a ready-to-go ISO aka big isos for poor countries with laggy internet. In a globalized world we have to re-focus our ressources and our goals to give everybody a chance to be part of the big Linux community!
+The most important aspect starting MoehrLux was that good friends of mine complained that Arch itself doesn't provide a ready-to-go ISO aka big isos for poor countries with laggy internet. In a globalized world we have to re-focus our ressources and our goals to give everybody a chance to be part of the big Linux community!
 
-2. How's the release cycle of Moehrlux isos?
+2. How's the release cycle of MoehrLux isos?
 
 It is planned to publish every 3 month an updated iso.
 
